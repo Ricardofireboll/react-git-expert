@@ -1,6 +1,6 @@
 import { useState } from "react"
 import { AddCategory, GitGrid } from "./components";
-
+ 
 
 
 
@@ -23,7 +23,7 @@ return (
     <>
     {/* Titulo */}
         <h1>GiftExpertApp</h1>
-
+        <h2>Holis</h2>
     {/* Input */}
     
         <AddCategory
